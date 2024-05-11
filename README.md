@@ -31,5 +31,29 @@ We would on many occasions order lunch during office hours for > 7 people. More 
 4) "npm start" (backend and frontend)
 5) frontend will display on: http://localhost:8000/
 
+# Visuals
+
+## HomePage:
+### Information on all of the technologies utilized in ChowTrackr
+
+![screencapture-localhost-8000-2024-05-11-18_11_24](https://github.com/KavyaKolavasi1/ChowTrackr/assets/135289399/94b53fc8-a013-49c5-a5f9-eadc2f755f1a)
+
+## RecipesPage:
+### Example of data fetched/stored from MongoDB
+![kolavask-screenshot](https://github.com/KavyaKolavasi1/ChowTrackr/assets/135289399/ef27269b-787a-41d3-b695-5cf1dcc2e012)
+
+## AboutPage:
+### Explanation of ChowTrackr
+![screencapture-localhost-8000-aboutpage-2024-05-11-18_11_42](https://github.com/KavyaKolavasi1/ChowTrackr/assets/135289399/c3885cd5-79f7-4026-a25f-9f135ce6376c)
+
+## OrderPage:
+### Order Page to store current order for each user (REACT/JavaScript)
+
+![screencapture-localhost-8000-orderpage-2024-05-11-18_22_50](https://github.com/KavyaKolavasi1/ChowTrackr/assets/135289399/7733a0a1-3112-4175-aa34-1c180f8de276)
+
+## PaymentPage:
+### Payment data created with (REACT/JavaScript)
+![screencapture-localhost-8000-payment-2024-05-11-18_12_07](https://github.com/KavyaKolavasi1/ChowTrackr/assets/135289399/7650e354-69e8-4c7d-98b4-a1b05718719e)
+
 
 
